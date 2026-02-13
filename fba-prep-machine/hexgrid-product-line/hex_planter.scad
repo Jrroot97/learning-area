@@ -56,7 +56,10 @@ module hex_planter() {
                         cylinder(d=DRAIN_HOLE_DIA, h=HEX_BASE + 3, $fn=FN_ROUND);
         }
 
-        // Magnet holes (lower position since planter is tapered)
+        // Magnet holes — NOTE: z=8 (not MAG_Z=10) because the tapered
+        // base is thinner at the bottom. 2mm Z-offset vs neighbors is OK:
+        // 6mm disc magnets attract through ~3mm, and lateral alignment is exact.
+        // Verified in master_assembly.scad fitment check.
         mag_holes(8);
 
         // Decorative pattern

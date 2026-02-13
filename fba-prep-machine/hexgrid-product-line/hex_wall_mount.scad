@@ -49,7 +49,7 @@ module hex_wall_plate() {
 
 // --- 3-Hex Horizontal Row ---
 module hex_wall_3row() {
-    spacing = HEX_SIZE + 1;
+    spacing = HEX_SPACING;  // Use global grid spacing for consistency
 
     difference() {
         union() {
