@@ -1,0 +1,22 @@
+SKU,Product Name,Variants,Print Time (hrs),Filament (g),Filament Cost,Sell Price (Etsy),Sell Price (Amazon),Margin %,File
+HG-CUP-100,Hex Pencil Cup (Standard),"100mm tall, with/without divider",2.5,35,$0.70,"$12-15","$14-18",93%,hex_cup.scad
+HG-CUP-045,Hex Short Cup (Business Card),45mm tall,1.2,18,$0.36,"$8-10","$10-12",94%,hex_cup.scad
+HG-CUP-130,Hex Tall Cup (Vase/Brush),130mm tall,3.2,45,$0.90,"$14-18","$16-20",93%,hex_cup.scad
+HG-DRW-050,Hex Mini Drawer,"50mm, housing + insert, 3 handle styles",3.0,45,$0.90,"$14-18","$16-20",93%,hex_drawer.scad
+HG-DRW-DBL,Hex Double Drawer,Two stacked drawers,5.5,85,$1.70,"$22-28","$25-32",91%,hex_drawer.scad
+HG-TRY-025,Hex Catch-All Tray,25mm flat tray,1.5,25,$0.50,"$10-14","$12-16",94%,hex_shelf.scad
+HG-TRY-PHN,Hex Phone Stand,Angled with cable channel,2.0,30,$0.60,"$12-15","$14-18",94%,hex_shelf.scad
+HG-TRY-WCH,Hex Watch Stand,With pillow and band channels,2.0,28,$0.56,"$12-15","$14-18",94%,hex_shelf.scad
+HG-TRY-DPP,Hex Deep Tray,40mm deep bowl tray,1.8,28,$0.56,"$10-14","$12-16",94%,hex_shelf.scad
+HG-PLT-065,Hex Succulent Planter,"Pot + saucer, drainage holes",2.0,30,$0.60,"$10-14","$12-16",94%,hex_planter.scad
+HG-PLT-SLF,Hex Self-Watering Planter,Built-in reservoir + wicking,2.5,38,$0.76,"$14-18","$16-20",94%,hex_planter.scad
+HG-HK1-030,Hex Single Hook,Keys/towels/light items,1.0,18,$0.36,"$8-10","$10-12",94%,hex_hook.scad
+HG-HK2-030,Hex Double Hook,Two hooks angled outward,1.2,22,$0.44,"$9-12","$11-14",94%,hex_hook.scad
+HG-HKH-030,Hex Headphone Hook,Wide arm + cable notch,1.3,24,$0.48,"$10-14","$12-16",95%,hex_hook.scad
+HG-HKB-030,Hex Heavy Bag Hook,"Thick arm, 15lb capacity",1.5,28,$0.56,"$10-14","$12-16",94%,hex_hook.scad
+HG-WM1-015,Hex Wall Plate (Single),Single hex mount point,0.8,15,$0.30,"$6-8","$8-10",94%,hex_wall_mount.scad
+HG-WM3-015,Hex Wall Mount (3-Row),3 hex positions horizontal,2.5,55,$1.10,"$16-20","$18-24",92%,hex_wall_mount.scad
+HG-WM7-015,Hex Wall Mount (7-Cluster),Center + 6 ring positions,4.5,100,$2.00,"$25-32","$28-36",91%,hex_wall_mount.scad
+HG-CBL-020,Hex Cable Clips,3-slot desktop cable organizer,1.0,15,$0.30,"$8-10","$10-12",95%,hex_cable.scad
+HG-CBL-CHG,Hex Charging Dock,Phone + watch charging stand,1.5,25,$0.50,"$12-16","$14-18",95%,hex_cable.scad
+HG-CBL-TDY,Hex Cable Tidy,Spool for wrapping excess cable,1.3,22,$0.44,"$8-12","$10-14",94%,hex_cable.scad
